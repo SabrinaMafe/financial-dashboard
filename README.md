@@ -1,5 +1,12 @@
 # 💰 Financial Dashboard Inteligente
 
+## 🌐 Demo Online
+
+O app está rodando online no Streamlit Cloud:  
+👉 [Acesse aqui o Dashboard Financeiro](https://gehztwu2kiltmgtyalq9nc.streamlit.app/)
+
+
+
 Este projeto é um **Dashboard Financeiro em Python + Streamlit** que permite:
 
 - 📂 Upload de extratos em CSV ou Excel  
@@ -27,7 +34,3 @@ Este projeto é um **Dashboard Financeiro em Python + Streamlit** que permite:
 git clone https://github.com/SabrinaMafe/financial-dashboard.git
 cd financial-dashboard
 
-## 🌐 Demo Online
-
-O app está rodando online no Streamlit Cloud:  
-👉 [Acesse aqui o Dashboard Financeiro](https://gehztwu2kiltmgtyalq9nc.streamlit.app/)
