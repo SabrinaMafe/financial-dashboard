@@ -26,3 +26,8 @@ Este projeto é um **Dashboard Financeiro em Python + Streamlit** que permite:
 ```bash
 git clone https://github.com/SabrinaMafe/financial-dashboard.git
 cd financial-dashboard
+
+## 🌐 Demo Online
+
+O app está rodando online no Streamlit Cloud:  
+👉 [Acesse aqui o Dashboard Financeiro](https://gehztwu2kiltmgtyalq9nc.streamlit.app/)
